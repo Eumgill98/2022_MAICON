@@ -1,0 +1,3 @@
+2022-11-10 21:29:25,417 | train | INFO | ES | Initiated, mode: max, best score: inf, patience: 5
+2022-11-10 21:46:53,887 | train | INFO | ES | 0/5, best:0.0018868655843876391, now:0.0018868655843876391
+2022-11-10 21:46:53,887 | train | INFO | ES | Set patience counter as 0
